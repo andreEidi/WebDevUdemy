@@ -10,3 +10,7 @@ Seguindo as aulas do curso, este diretório será voltado ao aprendizado inicial
 ## Projeto 2
 
 - Projeto 2 será dedicado a criar um página para uma modelo fictícia 
+
+## Projeto 3
+
+- Criar um tecblog com HTML e CSS
