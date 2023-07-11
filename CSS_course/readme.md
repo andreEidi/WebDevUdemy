@@ -14,3 +14,7 @@ Seguindo as aulas do curso, este diretório será voltado ao aprendizado inicial
 ## Projeto 3
 
 - Criar um tecblog com HTML e CSS
+
+## Projeto 4
+
+- Criar um site de noticias com html e CSS
